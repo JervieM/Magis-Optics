@@ -5,6 +5,11 @@ An application for classifying stages of Diabetic Retinopathy (DR) of retina ima
 Diabetic Retinopathy (DR) is a complication of diabetes caused by damage to the blood vessels in the retina, potentially leading to vision loss if untreated. 
 The condition progresses through different stages, from mild non-proliferative abnormalities to severe proliferative retinopathy, characterized by abnormal blood vessel growth.
 
+How It Works
+
+The model processes retinal images through convolutional layers and residual blocks, extracting detailed features. Using this information, it predicts the disease stage (0-4), 
+assisting in both early detection and detailed diagnosis.
+
 Instructions:
 
 Upload a retinal image and see the model's prediction based on the 0-4 classification system.
