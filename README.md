@@ -13,10 +13,10 @@ Upload a retinal image and see the model's prediction based on the 0-4 classific
 2. Click the "Upload an Image" button to select your retinal image.
 3. Click the "Predict" button and wait for the model to process the image and display the classification stage (0-4).
 4. Stage Explanation:
+    0: No signs of DR.
+    1: Mild stage, initial signs detected.
+    2: Moderate stage, some vessel blockages identified.
+    3: Severe stage, widespread vessel blockages observed.
+    4: Proliferative stage, abnormal vessel growth detected.
 
-0: No signs of DR.
-1: Mild stage, initial signs detected.
-2: Moderate stage, some vessel blockages identified.
-3: Severe stage, widespread vessel blockages observed.
-4: Proliferative stage, abnormal vessel growth detected.
 Disclaimer: The predictions are for research purposes and are not a substitute for clinical diagnosis. Please consult a healthcare professional for medical advice.
